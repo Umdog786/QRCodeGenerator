@@ -1,0 +1,3 @@
+https://www.qrcode.com/en/about/version.html - Maximum capacities of QR versions
+https://www.thonky.com/qr-code-tutorial/error-correction-coding
+https://www.thonky.com/qr-code-tutorial/error-correction-table

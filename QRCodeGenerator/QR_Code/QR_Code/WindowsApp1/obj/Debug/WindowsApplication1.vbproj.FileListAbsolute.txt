@@ -1,0 +1,46 @@
+\\becdfs01\becstud\2013\bec130026\6th_Form\Year_13\Computer_Science\New_NEA\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\becdfs01\becstud\2013\bec130026\6th_Form\Year_13\Computer_Science\New_NEA\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\becdfs01\becstud\2013\bec130026\6th_Form\Year_13\Computer_Science\New_NEA\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\becdfs01\becstud\2013\bec130026\6th_Form\Year_13\Computer_Science\New_NEA\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\becdfs01\becstud\2013\bec130026\6th_Form\Year_13\Computer_Science\New_NEA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+\\becdfs01\becstud\2013\bec130026\6th_Form\Year_13\Computer_Science\New_NEA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\becdfs01\becstud\2013\bec130026\6th_Form\Year_13\Computer_Science\New_NEA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\becdfs01\becstud\2013\bec130026\6th_Form\Year_13\Computer_Science\New_NEA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\becdfs01\becstud\2013\bec130026\6th_Form\Year_13\Computer_Science\New_NEA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\becdfs01\becstud\2013\bec130026\6th_Form\Year_13\Computer_Science\New_NEA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+U:\6th_Form\Year_13\Computer_Science\New_NEA\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+U:\6th_Form\Year_13\Computer_Science\New_NEA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+U:\6th_Form\Year_13\Computer_Science\New_NEA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+U:\6th_Form\Year_13\Computer_Science\New_NEA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+U:\6th_Form\Year_13\Computer_Science\New_NEA\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+U:\6th_Form\Year_13\Computer_Science\New_NEA\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+U:\6th_Form\Year_13\Computer_Science\New_NEA\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+U:\6th_Form\Year_13\Computer_Science\New_NEA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+U:\6th_Form\Year_13\Computer_Science\New_NEA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+U:\6th_Form\Year_13\Computer_Science\New_NEA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\QR_Code\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\QR_Code\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\QR_Code\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\QR_Code\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+N:\QR_Code\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+N:\QR_Code\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+N:\QR_Code\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+N:\QR_Code\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+N:\QR_Code\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+N:\QR_Code\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+N:\QR_Code\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+N:\QR_Code\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+N:\QR_Code\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+N:\QR_Code\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+N:\QR_Code\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+N:\QR_Code\Numeric and Alphanumeric\bin\Debug\WindowsApplication1.exe.config
+N:\QR_Code\Numeric and Alphanumeric\bin\Debug\WindowsApplication1.exe
+N:\QR_Code\Numeric and Alphanumeric\bin\Debug\WindowsApplication1.pdb
+N:\QR_Code\Numeric and Alphanumeric\bin\Debug\WindowsApplication1.xml
+N:\QR_Code\Numeric and Alphanumeric\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+N:\QR_Code\Numeric and Alphanumeric\obj\Debug\WindowsApplication1.Form1.resources
+N:\QR_Code\Numeric and Alphanumeric\obj\Debug\WindowsApplication1.Resources.resources
+N:\QR_Code\Numeric and Alphanumeric\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+N:\QR_Code\Numeric and Alphanumeric\obj\Debug\WindowsApplication1.exe
+N:\QR_Code\Numeric and Alphanumeric\obj\Debug\WindowsApplication1.xml
+N:\QR_Code\Numeric and Alphanumeric\obj\Debug\WindowsApplication1.pdb
